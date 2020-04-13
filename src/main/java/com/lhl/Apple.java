@@ -7,6 +7,6 @@ package com.lhl;
 public class Apple {
     public static void main(String[] args) {
 
-        System.out.println("I have an apple ! edit by new branch");
+        System.out.println("I have an apple ! edit by double conflict solve ! ~");
     }
 }
